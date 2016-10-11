@@ -104,7 +104,7 @@ var vm = new Vue({
 ![Lifecycle](/images/lifecycle.png)
 
 ![](https://cloud.githubusercontent.com/assets/12537013/17702060/f847b38a-63fe-11e6-9c29-38e58d46f036.png)
-
+*上面钩子名称写错：应为destory
 ***
 
 > 原文： http://vuejs.org/guide/instance.html
